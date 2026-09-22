@@ -1,0 +1,487 @@
+{
+  "posts": [
+    {
+      "dir": "book-about-open-source-projects-last-copies-sale",
+      "title": {
+        "en": "Book about open source projects – last copies in sale",
+        "pl": "Książka o projektach Open Source – ostatni wydruk"
+      },
+      "slugs": {
+        "en": "book-about-open-source-projects-last-copies-sale",
+        "pl": "book-about-open-source-projects-last-copies-sale"
+      },
+      "coverImage": {
+        "en": "media/okna2.png",
+        "pl": "media/okna2.png"
+      },
+      "brief": {
+        "en": "This book examines how open-source projects are organized, financed, and sustained, based on research into projects, communities, and business models.",
+        "pl": "Książka opisuje, jak organizowane, finansowane i rozwijane są projekty open source, na podstawie analizy projektów, społeczności oraz modeli biznesowych."
+      },
+      "publishDate": {
+        "en": "2013-11-26",
+        "pl": "2013-11-26"
+      }
+    },
+    {
+      "dir": "controlling-file-sharing-in-a-windows-lan-without-active-directory",
+      "title": {
+        "en": null,
+        "pl": "Kontrola współdzielenia plików w Windowsowej sieci LAN bez Active Directory"
+      },
+      "slugs": {
+        "en": null,
+        "pl": "kontrola-wspoldzielenia-plikow-w-windowsowej-sieci-lan-bez-active-directory"
+      },
+      "coverImage": {
+        "en": null,
+        "pl": "media/2017-09-26_12-45_179.png"
+      },
+      "brief": {
+        "en": null,
+        "pl": "Jak kontrolować współdzielenie plików w firmowej sieci Windows bez Active Directory, korzystając z uprawnień, konfiguracji udziałów i narzędzi dostępnych w systemie."
+      },
+      "publishDate": {
+        "en": null,
+        "pl": "2017-09-26"
+      }
+    },
+    {
+      "dir": "darktable-and-krita-professional-photo-editing-with-open-source-software",
+      "title": {
+        "en": null,
+        "pl": "Darktable oraz Krita - Profesjonalna obróbka zdjęć z wykorzystaniem programów open source"
+      },
+      "slugs": {
+        "en": null,
+        "pl": "darktable-oraz-krita-profesjonalna-obrobka-zdjec-z-wykorzystaniem-programow-open-source"
+      },
+      "coverImage": {
+        "en": null,
+        "pl": "media/darktable-krita.png"
+      },
+      "brief": {
+        "en": null,
+        "pl": "Porównuję Darktable i Kritę jako otwarte narzędzia do profesjonalnej obróbki zdjęć, w tym pracy z plikami RAW, grafiką rastrową i przygotowaniem materiałów do druku."
+      },
+      "publishDate": {
+        "en": null,
+        "pl": "2023-09-17"
+      }
+    },
+    {
+      "dir": "data-internationalization-with-full-text-search-indexes-in-postgres-and-anti-patterns",
+      "title": {
+        "en": "Data internationalization with text search - indexes in Postgres and anti-patterns",
+        "pl": "Internacjonalizacja danych z wyszukiwaniem tekstowym - indeksy w Postgres oraz antywzorce"
+      },
+      "slugs": {
+        "en": "data-internationalization-with-full-text-search-indexes-in-postgres-and-anti-patterns",
+        "pl": "internacjonalizacja-danych-z-wyszukiwaniem-tekstowym-indeksy-w-postgres-oraz-antywzorce"
+      },
+      "coverImage": {
+        "en": "media/multilingual-data.png",
+        "pl": "media/multilingual-data.png"
+      },
+      "brief": {
+        "en": "This article explores data models for multilingual applications and full-text search in PostgreSQL, focusing on index design, performance, and common anti-patterns.",
+        "pl": "Artykuł omawia modele danych dla aplikacji wielojęzycznych oraz wyszukiwanie pełnotekstowe w PostgreSQL, ze szczególnym uwzględnieniem indeksów, wydajności i typowych antywzorców."
+      },
+      "publishDate": {
+        "en": "2020-09-27",
+        "pl": "2020-09-27"
+      }
+    },
+    {
+      "dir": "distributing-javafx-desktop-applications-without-requiring-jvm-using-jlink-and-jpackage",
+      "title": {
+        "en": "Distributing JavaFX desktop applications without requiring a JVM (using jlink and jpackage)",
+        "pl": "Dystrybucja aplikacji desktopowych JavaFX nie wymagających JVMa (dzięki jlink oraz jpackage)"
+      },
+      "slugs": {
+        "en": "distributing-javafx-desktop-applications-without-requiring-jvm-using-jlink-and-jpackage",
+        "pl": "dystrybucja-aplikacji-desktopowych-javafx-nie-wymagajacych-jvma-wykorzystujac-jlink-jpackage"
+      },
+      "coverImage": {
+        "en": "media/openjdk.jpg",
+        "pl": "media/openjdk.jpg"
+      },
+      "brief": {
+        "en": "Learn how to distribute a JavaFX desktop application with its own trimmed runtime, using OpenJDK, jlink, and jpackage so users do not need to install a JVM.",
+        "pl": "Dowiedz się, jak dostarczyć aplikację desktopową JavaFX wraz z dopasowanym środowiskiem uruchomieniowym, wykorzystując OpenJDK, jlink i jpackage bez wymagania instalacji JVM przez użytkownika."
+      },
+      "publishDate": {
+        "en": "2019-10-21",
+        "pl": "2019-10-21"
+      }
+    },
+    {
+      "dir": "division-erp-mes-responsibilities-sme-scale-things",
+      "title": {
+        "en": "Division of ERP-MES responsibilities in the SME scale of things",
+        "pl": "Podział kompetencji między ERP-MES kontra realia MSP"
+      },
+      "slugs": {
+        "en": "division-erp-mes-responsibilities-sme-scale-things",
+        "pl": "podzial-kompetencji-miedzy-erp-mes-kontra-realia-msp"
+      },
+      "coverImage": {
+        "en": "media/photodune-4595578-boy-in-big-shirt-and-pants-s-mixx.jpg",
+        "pl": "media/photodune-4595578-boy-in-big-shirt-and-pants-s-mixx.jpg"
+      },
+      "brief": {
+        "en": "This article examines how ERP and MES responsibilities can be divided in small and medium-sized manufacturing companies, and where the standard model does not fit their reality.",
+        "pl": "Analiza podziału kompetencji między systemami ERP i MES w małych i średnich przedsiębiorstwach produkcyjnych oraz ograniczeń standardowego modelu w praktyce."
+      },
+      "publishDate": {
+        "en": "2013-10-22",
+        "pl": "2013-10-22"
+      }
+    },
+    {
+      "dir": "futurocoin-copy-dash-without-decentralization",
+      "title": {
+        "en": "FuturoCoin - a copy of Dash without the decentralization",
+        "pl": "FuturoCoin - kopia Dash bez decentralizacji"
+      },
+      "slugs": {
+        "en": "futurocoin-copy-dash-without-decentralization",
+        "pl": "futurocoin-kopia-dash-bez-decentralizacji"
+      },
+      "coverImage": {
+        "en": "media/futurocoin-dash.jpg",
+        "pl": "media/futurocoin-dash.jpg"
+      },
+      "brief": {
+        "en": "An analysis of FuturoCoin's technology, relationship to Dash, and claims of decentralization, based on the project's public materials and implementation details.",
+        "pl": "Analiza technologii FuturoCoin, jego podobieństw do Dasha oraz deklaracji dotyczących decentralizacji na podstawie publicznych materiałów i implementacji projektu."
+      },
+      "publishDate": {
+        "en": "2018-02-08",
+        "pl": "2018-02-08"
+      }
+    },
+    {
+      "dir": "geolocation-of-website-users",
+      "title": {
+        "en": "Geolocation of Website Users",
+        "pl": "Geolokalizacja użytkowników strony www"
+      },
+      "slugs": {
+        "en": "geolocation-of-website-users",
+        "pl": "geolokalizacja-uzytkownikow-strony-www"
+      },
+      "coverImage": {
+        "en": "media/Internet-icon.png",
+        "pl": "media/Internet-icon.png"
+      },
+      "brief": {
+        "en": "This article compares browser-based Geolocation API with server-side IP geolocation and evaluates services that help locate website users.",
+        "pl": "Porównuję przeglądarkowe Geolocation API z geolokalizacją użytkowników na podstawie adresu IP oraz oceniam usługi wspierające lokalizowanie odwiedzających stronę."
+      },
+      "publishDate": {
+        "en": "2023-10-31",
+        "pl": "2023-10-31"
+      }
+    },
+    {
+      "dir": "graphic-file-formats-which-to-use-for-what",
+      "title": {
+        "en": "Graphic file formats - which to use for what",
+        "pl": "Formaty plików graficznych - które służą do czego"
+      },
+      "slugs": {
+        "en": "graphic-file-formats-which-to-use-for-what",
+        "pl": "formaty-plikow-graficznych-ktore-sluza-do-czego"
+      },
+      "coverImage": {
+        "en": "media/formats-question.png",
+        "pl": "media/formats-question.png"
+      },
+      "brief": {
+        "en": "A practical guide to choosing graphic file formats for web publishing, printing, photography, and vector artwork, with attention to color, compression, and fonts.",
+        "pl": "Praktyczna ściąga dotycząca wyboru formatów plików graficznych do publikacji w Internecie, druku, fotografii i grafiki wektorowej, z uwzględnieniem kolorów, kompresji i czcionek."
+      },
+      "publishDate": {
+        "en": "2024-01-07",
+        "pl": "2024-01-07"
+      }
+    },
+    {
+      "dir": "history-of-the-open-source-movement-from-a-business-perspective",
+      "title": {
+        "en": "History of the open source movement from a business perspective",
+        "pl": "Historia ruchu open source z perspektywy biznesowej"
+      },
+      "slugs": {
+        "en": "history-of-the-open-source-movement-from-a-business-perspective",
+        "pl": "historia-ruchu-open-source-z-perspektywy-biznesowej"
+      },
+      "coverImage": {
+        "en": "media/osp-blog-front.png",
+        "pl": "media/osp-blog-front.png"
+      },
+      "brief": {
+        "en": "A history of the open-source movement viewed from the business perspective, from the free software movement to sustainable commercial models around open projects.",
+        "pl": "Historia ruchu open source przedstawiona z perspektywy biznesowej — od ruchu wolnego oprogramowania po trwałe modele komercyjne rozwijane wokół otwartych projektów."
+      },
+      "publishDate": {
+        "en": "2024-02-04",
+        "pl": "2024-02-04"
+      }
+    },
+    {
+      "dir": "integrating-business-systems-manufacturing-sme",
+      "title": {
+        "en": "Integrating business systems with manufacturing sys. in SME",
+        "pl": "Integracja systemu biznesowego z sys. produkcyjnym w MSP"
+      },
+      "slugs": {
+        "en": "integrating-business-systems-manufacturing-sme",
+        "pl": "integrating-business-systems-manufacturing-sme"
+      },
+      "coverImage": {
+        "en": "media/photodune-892179-man-in-helmet-with-hammer-repairs-computer-s-mod.jpg",
+        "pl": "media/photodune-892179-man-in-helmet-with-hammer-repairs-computer-s-mod.jpg"
+      },
+      "brief": {
+        "en": "This article presents an integration model for business and manufacturing systems in SMEs, developed from the limitations of applying the standard ERP-MES division directly.",
+        "pl": "Artykuł przedstawia schemat integracji systemów biznesowych i produkcyjnych w MSP, opracowany z uwzględnieniem ograniczeń bezpośredniego stosowania standardowego podziału ERP-MES."
+      },
+      "publishDate": {
+        "en": "2013-11-18",
+        "pl": "2013-11-18"
+      }
+    },
+    {
+      "dir": "monitoring-systems-comparison",
+      "title": {
+        "en": "Monitoring systems comparison: New Relic, Datadog, Grafana + Prometheus and Elastic Stack",
+        "pl": "Porównanie systemów monitoringu: New Relic, Datadog, Graphana + Prometheus i Elastic Stack"
+      },
+      "slugs": {
+        "en": "monitoring-systems-comparison",
+        "pl": "porownanie-systemow-monitoringu"
+      },
+      "coverImage": {
+        "en": "media/newrelic-key-transaction-metrics-1.png",
+        "pl": "media/newrelic-key-transaction-metrics-1.png"
+      },
+      "brief": {
+        "en": "Application and infrastructure monitoring helps teams detect problems quickly and understand their causes. This article compares four approaches to collecting metrics, logs, alerts, and APM data, including their setup and maintenance costs.",
+        "pl": "Monitoring aplikacji i infrastruktury jest jednym z podstawowych narzędzi pozwalających szybko zauważyć problemy i zrozumieć ich przyczyny. Porównajmy funkcje 4 systemów do zbierania: metryk, logów, alertów oraz APM. Sprawdźmy, ile kosztuje uruchomienie i dalsze utrzymanie każdego z nich."
+      },
+      "publishDate": {
+        "en": "2020-03-01",
+        "pl": "2020-03-01"
+      }
+    },
+    {
+      "dir": "performant-internationalization-in-postgresql-hibernate-jpa-companion-translation-table",
+      "title": {
+        "en": "Performant internationalization in PostgreSQL + Hibernate / JPA - companion translation table",
+        "pl": "Wydajna internacjonalizacja w PostgreSQL + Hibernate / JPA - tabela towarzysząca z tłumaczeniami"
+      },
+      "slugs": {
+        "en": "performant-internationalization-in-postgresql-hibernate-jpa-companion-translation-table",
+        "pl": "wydajna-internacjonalizacja-w-postgresql-hibernate-jpa-tabela-towarzyszaca-z-tlumaczeniami"
+      },
+      "coverImage": {
+        "en": "media/multilingual-data.png",
+        "pl": "media/multilingual-data.png"
+      },
+      "brief": {
+        "en": "This article implements multilingual field-level text search with a companion translation table, GIN and GiST indexes, PostgreSQL, Hibernate, and Spring Data JPA.",
+        "pl": "Artykuł pokazuje implementację wielojęzycznego wyszukiwania tekstowego na poziomie pól z użyciem tabeli towarzyszącej, indeksów GIN i GiST, PostgreSQL, Hibernate oraz Spring Data JPA."
+      },
+      "publishDate": {
+        "en": "2021-04-03",
+        "pl": "2021-04-03"
+      }
+    },
+    {
+      "dir": "performant-internationalization-in-postgresql-hibernate-jpa-hstore-column-with-translations",
+      "title": {
+        "en": "Performant internationalization in PostgreSQL + Hibernate / JPA - HStore column with translations",
+        "pl": "Wydajna internacjonalizacja w PostgreSQL + Hibernate / JPA - kolumna HStore z tłumaczeniami"
+      },
+      "slugs": {
+        "en": "performant-internationalization-in-postgresql-hibernate-jpa-hstore-column-with-translations",
+        "pl": "wydajna-internacjonalizacja-w-postgresql-hibernate-jpa-kolumna-hstore-z-tlumaczeniami"
+      },
+      "coverImage": {
+        "en": "media/multilingual-data.png",
+        "pl": "media/multilingual-data.png"
+      },
+      "brief": {
+        "en": "This article explores a PostgreSQL HStore column for multilingual field-level text search and integrates it with GIN and GiST indexes, Hibernate, and Spring Data JPA.",
+        "pl": "Artykuł przedstawia wykorzystanie kolumny HStore w PostgreSQL do wielojęzycznego wyszukiwania tekstowego oraz integrację z indeksami GIN i GiST, Hibernate i Spring Data JPA."
+      },
+      "publishDate": {
+        "en": "2022-08-13",
+        "pl": "2022-08-13"
+      }
+    },
+    {
+      "dir": "postgresql-on-kubernetes-operators-comparison",
+      "title": {
+        "en": "PostgreSQL on Kubernetes: operator comparison and performance tests",
+        "pl": "PostgreSQL na Kubernetes: porównanie operatorów i testy wydajności"
+      },
+      "slugs": {
+        "en": "postgresql-on-kubernetes-operators-comparison",
+        "pl": "postgresql-na-kubernetes-porownanie-operatorow"
+      },
+      "coverImage": {
+        "en": "",
+        "pl": ""
+      },
+      "brief": {
+        "en": "I compare PostgreSQL operators for Kubernetes with Google Cloud SQL, focusing on replication, backups, extensions, and operational effort. Finally, I compare CloudNativePG and Cloud SQL performance in a pgbench test.",
+        "pl": "Porównuję operatory PostgreSQL dla Kubernetes z Google Cloud SQL, zwracając uwagę na replikację, backupy, rozszerzenia i wygodę utrzymania. Na końcu zestawiam wydajność CloudNativePG i Cloud SQL w teście pgbench."
+      },
+      "publishDate": {
+        "en": "2022-09-15",
+        "pl": "2022-09-15"
+      }
+    },
+    {
+      "dir": "remote-office-access-and-computer-control-with-free-vpn-and-vnc-software",
+      "title": {
+        "en": null,
+        "pl": "Zdalny dostęp do biura oraz kontrola nad komputerami dzięki darmowemu oprogramowaniu VPN oraz VNC"
+      },
+      "slugs": {
+        "en": null,
+        "pl": "zdalny-dostep-do-biura-oraz-kontrola-nad-komputerami-dzieki-darmowemu-oprogramowaniu-vpn-oraz-vnc"
+      },
+      "coverImage": {
+        "en": null,
+        "pl": "media/vpn-vnc-head-image.png"
+      },
+      "brief": {
+        "en": null,
+        "pl": "Opisuję, jak zorganizować zdalny dostęp do biura i komputerów firmowych za pomocą bezpłatnych narzędzi VPN oraz VNC, z uwzględnieniem pracy całych zespołów."
+      },
+      "publishDate": {
+        "en": null,
+        "pl": "2020-10-19"
+      }
+    },
+    {
+      "dir": "rest-api-versioning-schemes",
+      "title": {
+        "en": "REST API versioning schemes",
+        "pl": "Schematy wersjonowania REST API"
+      },
+      "slugs": {
+        "en": "rest-api-versioning-schemes",
+        "pl": "schematy-wersjonowania-rest-api"
+      },
+      "coverImage": {
+        "en": "media/rest-versioning.drawio.png",
+        "pl": "media/rest-versioning.drawio.png"
+      },
+      "brief": {
+        "en": "Versioning is crucial for maintaining a stable and evolving REST API. As your API matures, changes become inevitable, whether due to bug fixes, new features, or performance enhancements. This article explores several common REST API versioning strategies, discussing their pros and cons.",
+        "pl": "Artykuł omawia popularne strategie wersjonowania REST API, pokazując jak wprowadzać zmiany bez przerywania działania istniejących integracji klientów."
+      },
+      "publishDate": {
+        "en": "2024-10-05",
+        "pl": "2024-10-05"
+      }
+    },
+    {
+      "dir": "spring-data-jpa-projection-dynamic-queries",
+      "title": {
+        "en": "Spring Data JPA - data projection in dynamic queries",
+        "pl": "Spring Data JPA - projekcja danych w zapytaniach dynamicznych"
+      },
+      "slugs": {
+        "en": "spring-data-jpa-projection-dynamic-queries",
+        "pl": "spring-data-jpa-projekcja-danych-zapytaniach-dynamicznych"
+      },
+      "coverImage": {
+        "en": "media/spring-data.png",
+        "pl": "media/spring-data.png"
+      },
+      "brief": {
+        "en": "This article compares JPA entity graphs and Spring Data projections for dynamically selecting only the fields required by an application query.",
+        "pl": "Porównuję grafy encji JPA i projekcje Spring Data jako sposoby dynamicznego pobierania wyłącznie pól potrzebnych w konkretnym zapytaniu aplikacji."
+      },
+      "publishDate": {
+        "en": "2019-06-22",
+        "pl": "2019-06-22"
+      }
+    },
+    {
+      "dir": "visual-regression-testing-tools-comparison",
+      "title": {
+        "en": "Visual regression testing tools comparison",
+        "pl": "Porównanie narzędzi do visual regression testing"
+      },
+      "slugs": {
+        "en": "visual-regression-testing-tools-comparison",
+        "pl": "porownanie-narzedzi-do-visual-regression-testing"
+      },
+      "coverImage": {
+        "en": "",
+        "pl": ""
+      },
+      "brief": {
+        "en": "Visual regression testing catches unintended changes in a user interface by comparing screenshots with approved baselines. This comparison looks at test authoring tools, cloud browser platforms, snapshot review services, and the CI workflow that connects them.",
+        "pl": "Testy regresji wizualnej wykrywają niezamierzone zmiany w interfejsie użytkownika, porównując zrzuty ekranu z zatwierdzonymi wzorcami. W tym artykule porównujemy narzędzia do tworzenia testów, chmurowe platformy przeglądarkowe, usługi do przeglądania zrzutów oraz proces CI, który łączy te elementy."
+      },
+      "publishDate": {
+        "en": "2024-03-11",
+        "pl": "2024-03-11"
+      }
+    },
+    {
+      "dir": "vod-and-live-streaming-platforms-comparison",
+      "title": {
+        "en": "Overview of VOD and live streaming platforms",
+        "pl": "Przegląd platform do VOD i live streamingu"
+      },
+      "slugs": {
+        "en": "vod-and-live-streaming-platforms-comparison",
+        "pl": "przeglad-platform-vod-live-streaming"
+      },
+      "coverImage": {
+        "en": "",
+        "pl": ""
+      },
+      "brief": {
+        "en": "An overview and comparison of solutions for video on demand and live streaming — from standalone players and comprehensive SaaS platforms to open-source media servers that need to be configured and operated independently.",
+        "pl": "Przegląd i porównanie rozwiązań do udostępniania wideo na żądanie i transmisji na żywo — od samych playerów i platform SaaS po serwery open source wymagające samodzielnej konfiguracji."
+      },
+      "publishDate": {
+        "en": "2020-11-01",
+        "pl": "2020-11-01"
+      }
+    },
+    {
+      "dir": "why-you-should-not-get-cryptocurrency-mining",
+      "title": {
+        "en": "Why you should NOT get into cryptocurrency mining",
+        "pl": "Dlaczego NIE powinieneś się pakować w kopanie kryptowalut"
+      },
+      "slugs": {
+        "en": "why-you-should-not-get-cryptocurrency-mining",
+        "pl": "dlaczego-nie-powinienes-sie-pakowac-w-kopanie-kryptowalut"
+      },
+      "coverImage": {
+        "en": "media/miner1.jpg",
+        "pl": "media/miner1.jpg"
+      },
+      "brief": {
+        "en": "An honest analysis of cryptocurrency mining economics, hardware, cloud mining, and the risks that make promised quick returns far less attractive than they appear.",
+        "pl": "Szczera analiza opłacalności kopania kryptowalut, sprzętu i usług cloud mining oraz ryzyka, przez które obiecywany szybki zwrot często okazuje się nierealny."
+      },
+      "publishDate": {
+        "en": "2017-11-01",
+        "pl": "2017-11-01"
+      }
+    }
+  ]
+}
