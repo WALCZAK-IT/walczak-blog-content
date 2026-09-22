@@ -277,6 +277,29 @@
       }
     },
     {
+      "dir": "on-call-duty-in-it-compensation-and-common-practices",
+      "title": {
+        "en": "On-call duty in IT - Compensation and Common Practices",
+        "pl": "Dyżur w IT - wynagrodzenia i stosowane praktyki"
+      },
+      "slugs": {
+        "en": "on-call-duty-in-it-compensation-and-common-practices",
+        "pl": "dyzur-w-it-wynagrodzenia-i-stosowane-praktyki"
+      },
+      "coverImage": {
+        "en": "media/oncall-dev.jpg",
+        "pl": "media/oncall-dev.jpg"
+      },
+      "brief": {
+        "en": "How much are IT specialists paid for on-call duty? This survey of programmers, administrators, and DevOps specialists examines the most common compensation models and rates.",
+        "pl": "Ile specjaliści IT otrzymują za dyżury? Ankieta wśród programistów, administratorów i specjalistów DevOps pokazuje najczęściej stosowane modele oraz stawki wynagrodzeń."
+      },
+      "publishDate": {
+        "en": "2024-12-29",
+        "pl": "2024-12-29"
+      }
+    },
+    {
       "dir": "performant-internationalization-in-postgresql-hibernate-jpa-companion-translation-table",
       "title": {
         "en": "Performant internationalization in PostgreSQL + Hibernate / JPA - companion translation table",
@@ -412,29 +435,6 @@
       "publishDate": {
         "en": "2019-06-22",
         "pl": "2019-06-22"
-      }
-    },
-    {
-      "dir": "visual-regression-testing-tools-comparison",
-      "title": {
-        "en": "Visual regression testing tools comparison",
-        "pl": "Porównanie narzędzi do visual regression testing"
-      },
-      "slugs": {
-        "en": "visual-regression-testing-tools-comparison",
-        "pl": "porownanie-narzedzi-do-visual-regression-testing"
-      },
-      "coverImage": {
-        "en": "",
-        "pl": ""
-      },
-      "brief": {
-        "en": "Visual regression testing catches unintended changes in a user interface by comparing screenshots with approved baselines. This comparison looks at test authoring tools, cloud browser platforms, snapshot review services, and the CI workflow that connects them.",
-        "pl": "Testy regresji wizualnej wykrywają niezamierzone zmiany w interfejsie użytkownika, porównując zrzuty ekranu z zatwierdzonymi wzorcami. W tym artykule porównujemy narzędzia do tworzenia testów, chmurowe platformy przeglądarkowe, usługi do przeglądania zrzutów oraz proces CI, który łączy te elementy."
-      },
-      "publishDate": {
-        "en": "2024-03-11",
-        "pl": "2024-03-11"
       }
     },
     {
