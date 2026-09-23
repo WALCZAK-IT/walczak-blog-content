@@ -21,7 +21,6 @@ brief: "Porównuję grafy encji JPA i projekcje Spring Data jako sposoby dynamic
 
 Zbadajmy je!
 
-![spring-data.png](media/spring-data.png)
 
 ## JPA Named Entity Graphs
 
@@ -165,5 +164,3 @@ Ten artykuł jest wynikiem naszej współpracy z [**Nextbuy**](https://www.nextb
 ---
 
 [![](media/walczak-it-logo5.png)](https://walczak.it/contact)
-
-Czy potrzebujesz pomocy z którymś tematem poruszonym na naszym blogu? Jeżeli tak, [skontaktuj się z nami](https://walczak.it/pl/kontakt). Możemy pomóc poprzez doradztwo oraz usługi audytowe lub zorganizować [warsztaty szkoleniowe](https://walczak.it/pl/doradztwo-szkolenia) dla Twoich pracowników. Możemy także wspomóc proces [wytwarzania oprogramowania](https://walczak.it/pl/tworzenie-oprogramowania) w Twojej firmie poprzez outsourcing naszych programistów.

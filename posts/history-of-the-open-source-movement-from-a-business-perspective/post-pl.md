@@ -14,7 +14,6 @@ brief: "Historia ruchu open source przedstawiona z perspektywy biznesowej — od
 
 Otwarte projekty są fenomenem, który wkroczył na arenę historii informatyki na przełomie lat osiemdziesiątych i dziewięćdziesiątych XX wieku, w postaci ruchu na rzecz wolnego oprogramowania (ang. free software). W tym czasie biznesowi gracze branży IT postrzegali je jako fanaberię kilku członków środowiska akademickiego, która to nie ma racji bytu w warunkach komercyjnych. Wizja otwartych projektów, w ramach których oprogramowanie mogło być używane i kopiowane za darmo, a użytkownicy byliby traktowani jako współpracownicy, wydawała się nie mieć żadnych szans na opracowanie i udoskonalanie wartościowych produktów informatycznych.
 
-![osp-blog-front.png](media/osp-blog-front.png)
 
 ## Powszechne praktyki lat 60' i 70'
 

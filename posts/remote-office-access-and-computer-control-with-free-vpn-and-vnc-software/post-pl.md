@@ -15,7 +15,6 @@ brief: "Opisuję, jak zorganizować zdalny dostęp do biura i komputerów firmow
 
 Ogromna liczba zakażeń COVID-19 sprawiła, że niemal każda firma poczuła jak wygląda ryzyko wyłączenia z pracy kluczowych pracowników lub całej załogi w biurze - oby tylko z powodu kwarantanny. Najprostszym sposobem, aby się przed tym ustrzec jest umożliwienie pracy zdalnej dla jak największej liczby pracowników. Na rynku jest wiele płatnych rozwiązań oraz firm wdrożeniowych, które umożliwiają podłączenie zdalnych komputerów w taki sposób że będą funkcjonowały tak jakby znajdowały się w tej samej sieci LAN i miały dostęp do wszystkich zasobów firmowych (drukarki, lokalne serwery, itp.). W tym artykule opiszemy jak połączyć zdalne komputery w wirtualny LAN przy pomocy darmowych i otwartych narzędzi VPN, a także jak umożliwić przejmowanie ekranów tych komputerów poprzez VNC w celu zapewnienia wsparcia technicznego.
 
-![vpn-vnc-head-image.png](media/vpn-vnc-head-image.png)
 
 ## Spis treści
 

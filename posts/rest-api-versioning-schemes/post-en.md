@@ -13,7 +13,6 @@ brief: "Versioning is crucial for maintaining a stable and evolving REST API. As
 
 Versioning is crucial for maintaining a stable and evolving REST API. As your API matures, changes become inevitable, whether due to bug fixes, new features, or performance enhancements. Proper versioning allows you to introduce these changes without breaking existing client integrations. This article explores several common REST API versioning strategies, discussing their pros and cons.
 
-![](media/rest-versioning.drawio.png)
 
 ## Postponing version changes
 

@@ -14,7 +14,7 @@ brief: "An honest analysis of cryptocurrency mining economics, hardware, cloud m
 
 If you're interested in Bitcoin, Ethereum, etc. then you're probably tempted by ads with mining equipment or cloud mining contracts. Many of them promise you substantial passive income and a fast return of investment - usually under one year. Can it really be this easy? Here at WALCZAK.IT we experiment heavily with cryptocurrencies and we've also build our behemoth of a rig which mines three totally different coins at once. We've experienced firsthand that cryptocurrency mining is not trivial, nor is it passive or risk-free. Here are some cons you should consider before investing in it.
 
-![miner1.jpg](media/miner1.jpg) ![miner1a.jpg](media/miner1a.jpg)
+![miner1a.jpg](media/miner1a.jpg)
 
 *The rig above uses GPUs to mine Ethereum, hard drives to mine BURST and CPUs/RAM are mostly utilized by Boinc research based mining of GridCoin. It consumes constantly about 2 kW of electricity.*
 
@@ -50,5 +50,3 @@ If you're looking for passive income - avoid it. Just buying cryptocurrencies an
 ---
 
 [![](media/walczak-it-logo5.png)](https://walczak.it/contact)
-
-Do you need help in your company with some topic we mentioned in our blog articles? If so, then please feel free to [contact us](https://walczak.it/contact). We can help you by providing consulting and audit services or by organizing [training workshops](https://walczak.it/consulting-training-courses) for your employees. We can also aid you in [software development](https://walczak.it/software-development) by outsourcing our developers.

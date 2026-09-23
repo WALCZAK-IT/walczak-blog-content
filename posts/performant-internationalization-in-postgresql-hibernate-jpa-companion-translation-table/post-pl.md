@@ -16,7 +16,6 @@ brief: "Artykuł pokazuje implementację wielojęzycznego wyszukiwania tekstoweg
 
 Kontynuując nasze rozważania, jak optymalnie zaimplementować wyszukiwanie tekstowe na poziomie pojedynczych pól w systemie opiszemy koncepcję tabeli towarzyszącej z tłumaczeniami, którą będziemy tworzyć dla każdej klasy. Zastosujemy tutaj indeksy typu GIN / GiST opisane na początku niniejszej serii artykułów oraz spróbujemy zaimplementować opisywaną koncepcję w technologii Spring Data JPA, Hibernate oraz Postgres.
 
-![multilingual-data.png](media/multilingual-data.png)
 
 ## Spis treści
 
@@ -348,5 +347,3 @@ Ten artykuł jest wynikiem naszej współpracy z [**Nextbuy**](https://www.nextb
 ---
 
 [![](media/walczak-it-logo4.png)](https://walczak.it/contact)
-
-Czy potrzebujesz pomocy z którymś tematem poruszonym na naszym blogu? Jeżeli tak, [skontaktuj się z nami](https://walczak.it/pl/kontakt). Możemy pomóc poprzez doradztwo oraz usługi audytowe lub zorganizować [warsztaty szkoleniowe](https://walczak.it/pl/doradztwo-szkolenia) dla Twoich pracowników. Możemy także wspomóc proces [wytwarzania oprogramowania](https://walczak.it/pl/tworzenie-oprogramowania) w Twojej firmie poprzez outsourcing naszych programistów.

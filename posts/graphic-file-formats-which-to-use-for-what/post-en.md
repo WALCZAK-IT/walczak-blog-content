@@ -17,7 +17,6 @@ brief: "A practical guide to choosing graphic file formats for web publishing, p
 
 Often, employees of marketing agencies or beginner graphic designers lack technical knowledge about the operation of individual graphic file formats and their appropriate application. This becomes apparent when they submit vector graphics for online publication in JPG format or when they deliver a PDF file for printing with an RGB color palette and attached custom fonts. The purpose of this article is to provide a quick cheat sheet for such individuals, so that the works they submit do not lose quality as a result of conversion to inappropriate formats and to prevent situations where the prints turn out differently than the document preview on the monitor.
 
-![formats-question.png](media/formats-question.png)
 
 ## Collaboration with Photographers
 

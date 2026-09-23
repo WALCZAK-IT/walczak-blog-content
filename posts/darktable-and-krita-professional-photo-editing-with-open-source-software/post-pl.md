@@ -15,7 +15,6 @@ brief: "Porównuję Darktable i Kritę jako otwarte narzędzia do profesjonalnej
 
 Tradycyjnie Adobe Photoshop i Lightroom są uznawane za standard branżowy, oferując bogaty zestaw funkcji i narzędzi do obróbki obrazów rastrowych. Nie są one jednak jedynymi rozwiązaniami dostępnymi na rynku. Przez wiele lat ich główną darmową alternatywą był program GIMP, który świetnie nadaje się do przygotowania obrazów do publikacji w Internecie, posiada jednak wiele braków, które ujawniają się wtedy, gdy chcemy przygotować zdjęcia do druku lub obrobić surowe pliki RAW z aparatu. W tym przypadku lukę tę wypełniają mniej znane, ale bardziej rozbudowane programy open source takie jak Krita i Darktable. W poniższym artykule przyjrzymy się ich niektórym, bardziej zaawansowanym funkcjom.
 
-![darktable-krita.png](media/darktable-krita.png)
 
 ## Darktable – kombajn do obróbki zdjęć RAW z aparatu
 

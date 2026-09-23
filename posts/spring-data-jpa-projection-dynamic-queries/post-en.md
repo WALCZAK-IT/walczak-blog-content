@@ -21,7 +21,6 @@ brief: "This article compares JPA entity graphs and Spring Data projections for 
 
 Lets research them!
 
-![spring-data.png](media/spring-data.png)
 
 ## JPA Named Entity Graphs
 
@@ -165,5 +164,3 @@ This article is a result of our cooperation with [**Nextbuy**](https://www.nextb
 ---
 
 [![](media/walczak-it-logo5.png)](https://walczak.it/contact)
-
-Do you need help in your company with some topic we mentioned in our blog articles? If so, then please feel free to [contact us](https://walczak.it/contact). We can help you by providing consulting and audit services or by organizing [training workshops](https://walczak.it/consulting-training-courses) for your employees. We can also aid you in [software development](https://walczak.it/software-development) by outsourcing our developers.

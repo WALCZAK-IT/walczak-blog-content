@@ -15,7 +15,6 @@ brief: "Ile specjaliści IT otrzymują za dyżury? Ankieta wśród programistów
 
 Dyżury w branży IT to nieodłączny element pracy wielu specjalistów. Wymaga to od dyżurującego, aby w danym dniu po godzinach miał zawsze laptopa i telefon pod ręką — nawet w weekendy czy święta. Większość firm oferuje swoim pracownikom dodatkowe wynagrodzenie za dyżury, ale jaka jest jego wysokość? Przeprowadziliśmy ankietę wśród specjalistów z branży IT, w tym programistów, administratorów SysOps oraz specjalistów DevOps. W niniejszym artykule przedstawiamy wyniki dla tych trzech grup oraz identyfikujemy najczęściej stosowane praktyki związane z dyżurami.
 
-![Dyżur w IT](media/oncall-dev.jpg)
 
 ## Ankieta
 

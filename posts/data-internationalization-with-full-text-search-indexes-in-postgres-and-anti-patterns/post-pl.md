@@ -15,7 +15,6 @@ brief: "Artykuł omawia modele danych dla aplikacji wielojęzycznych oraz wyszuk
 
 Systemy informatyczne, które operują w międzynarodowym środowisku, muszą często wspierać wielojęzyczne modele danych. Dla przykładu: użytkownicy systemu do zarządzania zakupami muszą mieć możliwość opisania pożądanych produktów w wielu językach ponieważ chcą otrzymać oferty od dostawców rezydujących w wielu państwach. Zaprojektowanie systemu, który będzie sobie dobrze radził z wyświetlaniem danych w języku danego użytkownika oraz także umożliwi mu wyszukiwane tekstowe jest nie lada wyzwaniem - wiele często stosowanych wzorców niesie za sobą dużo problemów wydajnościowych, które spowolnią cały system. W tym pierwszym z serii artykułów opiszemy jak Postgres ogólnie wspiera wyszukiwanie po tekście i zobaczymy jakie anty-wzorce pojawiają się najczęściej w wielojęzycznych modelach SQL.
 
-![multilingual-data.png](media/multilingual-data.png)
 
 ## Spis treści
 
@@ -84,5 +83,3 @@ Ten artykuł jest wynikiem naszej współpracy z [**Nextbuy**](https://www.nextb
 ---
 
 [![](media/walczak-it-logo5.png)](https://walczak.it/contact)
-
-Czy potrzebujesz pomocy z którymś tematem poruszonym na naszym blogu? Jeżeli tak, [skontaktuj się z nami](https://walczak.it/pl/kontakt). Możemy pomóc poprzez doradztwo oraz usługi audytowe lub zorganizować [warsztaty szkoleniowe](https://walczak.it/pl/doradztwo-szkolenia) dla Twoich pracowników. Możemy także wspomóc proces [wytwarzania oprogramowania](https://walczak.it/pl/tworzenie-oprogramowania) w Twojej firmie poprzez outsourcing naszych programistów.

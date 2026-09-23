@@ -14,7 +14,6 @@ brief: "This article presents an integration model for business and manufacturin
 
 In the [last article](https://walczak.it/blog/division-erp-mes-responsibilities-sme-scale-things) we described why the division of responsibilities between **ERP-MES** systems from the **IEC/ISO-62264** standard cannot be directly applied to small and medium enterprises. Now we’ll show you how we devised our own integration scheme for systems used in **SME** based on the conclusions from the previous analysis.
 
-![photodune-892179-man-in-helmet-with-hammer-repairs-computer-s-mod.jpg](media/photodune-892179-man-in-helmet-with-hammer-repairs-computer-s-mod.jpg)
 
 The IEC-62264 standard shows the areas of information exchange between the business (4) and manufacturing (3) level as presented below. Its design is tightly correlated with the standards functional hierarchy.
 
@@ -37,5 +36,3 @@ For example lets take the following scenario. We are producing a lot of closets.
 ---
 
 [![](media/walczak-it-logo5.png)](https://walczak.it/contact)
-
-Do you need help in your company with some topic we mentioned in our blog articles? If so, then please feel free to [contact us](https://walczak.it/contact). We can help you by providing consulting and audit services or by organizing [training workshops](https://walczak.it/consulting-training-courses) for your employees. We can also aid you in [software development](https://walczak.it/software-development) by outsourcing our developers.

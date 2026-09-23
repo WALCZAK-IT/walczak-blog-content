@@ -14,7 +14,7 @@ brief: "Szczera analiza opłacalności kopania kryptowalut, sprzętu i usług cl
 
 Jeżeli interesujesz się Bitcoin'em, Ethereum, itp. pewnie kuszą Cie liczne reklamy sprzętu do kopania kryptowalut lub kontrakty w chmurze. Wiele z nich oferuje wysoki pasywny dochód i szybki zwrot z inwestycji - zazwyczaj poniżej jednego roku. Czy to naprawdę może być takie łatwe? W naszej firmie intensywnie eksperymentujemy z kryptowalutami i zbudowaliśmy własną, dosyć pokaźną, koparkę pracującą jednocześnie nad trzema totalnie odmiennymi coin'ami. Na własnej skórze doświadczyliśmy że kopanie kryptowalut nie jest czymś banalnym, pasywnym, czy też pozbawionym ryzyka.
 
-![miner1.jpg](media/miner1.jpg) ![miner1a.jpg](media/miner1a.jpg)
+![miner1a.jpg](media/miner1a.jpg)
 
 *Powyższa koparka wykorzystuje karty graficzne do kopania Ethereum, dyski twarde do BURST, a procesory i RAM są głównie wykorzystane przez badań naukowe Boinc biorących udział w kopaniu GridCoin.  
  Ciągłe wykorzystanie prądu jest w okolichach 2 kW.*

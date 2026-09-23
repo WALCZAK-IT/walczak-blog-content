@@ -13,7 +13,6 @@ brief: "Artykuł omawia popularne strategie wersjonowania REST API, pokazując j
 
 Wersjonowanie jest kluczowe dla utrzymania stabilnego i rozwijającego się RESTowego API. W miarę dojrzewania każdego API zmiany stają się nieuniknione, czy to z powodu poprawek błędów, nowych funkcji, czy ulepszeń wydajności. Odpowiednie wersjonowanie pozwala wprowadzać te zmiany bez przerywania działania istniejących integracji klientów. W tym artykule omawiamy kilka popularnych strategii wersjonowania REST API, analizując ich wady i zalety.
 
-![](media/rest-versioning.drawio.png)
 
 ## Odkładanie zmian wersji
 

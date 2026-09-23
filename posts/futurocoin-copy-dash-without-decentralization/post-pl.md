@@ -14,7 +14,6 @@ brief: "Analiza technologii FuturoCoin, jego podobieństw do Dasha oraz deklarac
 
 W ostatnich miesiącach mogliśmy usłyszeć wiele kontrowersji wokół coina tworzonego przez FutureNet o nazwie [FuturoCoin](https://futurocoin.com/). FutureNet to sieć społecznościowa oraz platforma do marketingu wielopoziomowego (MLM). Większa część społeczności krypto nie traktowała tego projektu poważnie i oczekiwała kolejnego [DasCoin](https://bitcointalk.org/index.php?topic=1636850.0) - czyli coina, którym [miał mało wspólnego z definicją 'kryptowaluty'](https://businessinsider.com.pl/finanse/kryptowaluty/co-to-jest-dascoin-ostrzezenie-od-stowarzyszenia-bitcoina/vg7lw7l), ale był intensywnie na takową promowany przy użyciu MLM. Zarówno wobec FutureNet jak i twórców DasCoin (Netleaders) prowadzone jest [postępowanie na wniosek UOKiK](https://uokik.gov.pl/aktualnosci.php?news_id=13844) ze wględu na podejrzenie, że są piramidą finansową. Wiarygodności nie dodaje też fakt, że FutureNet promował FuturoCoin w czasie, gdy nie mieli jeszcze nawet whitepaper. Teraz gdy już w końcu posiadają ten dokument i opublikowali kody źródłowe, możemy zobaczyć czym na prawdę ten coin jest.
 
-![futurocoin-dash.jpg](media/futurocoin-dash.jpg)
 
 ## Po prostu skopiowali Dash ...
 

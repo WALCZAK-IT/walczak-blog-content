@@ -17,7 +17,6 @@ At the beginning of the year we began preparations to design our own IT system f
 
 Now came the time to share with you our insights and design sketches. This is our first article from a hole series that show you our efforts aimed at transferring the standards adopted for large ERP and MES systems to the SME scale of things.
 
-![photodune-4595578-boy-in-big-shirt-and-pants-s-mixx.jpg](media/photodune-4595578-boy-in-big-shirt-and-pants-s-mixx.jpg)
 
 ## The functional hierarchy from the standard vs SME
 
@@ -88,5 +87,3 @@ In this case, the activities taking place on the border of non-integrated system
 ---
 
 [![](media/walczak-it-logo5.png)](https://walczak.it/contact)
-
-Do you need help in your company with some topic we mentioned in our blog articles? If so, then please feel free to [contact us](https://walczak.it/contact). We can help you by providing consulting and audit services or by organizing [training workshops](https://walczak.it/consulting-training-courses) for your employees. We can also aid you in [software development](https://walczak.it/software-development) by outsourcing our developers.

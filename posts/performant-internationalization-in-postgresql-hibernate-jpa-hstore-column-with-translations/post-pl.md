@@ -16,7 +16,6 @@ brief: "Artykuł przedstawia wykorzystanie kolumny HStore w PostgreSQL do wieloj
 
 Kontynuując nasze rozważania, jak optymalnie zaimplementować wyszukiwanie tekstowe na poziomie pojedynczych pól w systemie, wykorzystamy tym razem typ kolumny specyficzny dla Postgres - kolumnę HStore. Następnie założymy na niej indeksy typu GIN / GiST opisane na początku niniejszej serii artykułów oraz zintegrujemy HStore z Hibernate oraz Spring Data JPA.
 
-![multilingual-data.png](media/multilingual-data.png)
 
 ## Spis treści
 

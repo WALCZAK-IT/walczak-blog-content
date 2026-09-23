@@ -193,7 +193,6 @@ That is why the Prometheus exporter format is becoming a de facto standard and c
 
 #### Key transaction metrics
 
-![Key transaction metrics in New Relic](media/newrelic-key-transaction-metrics-1.png)
 
 ![Key transaction metrics in New Relic](media/newrelic-key-transaction-metrics-2.png)
 

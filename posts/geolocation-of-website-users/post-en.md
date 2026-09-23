@@ -14,7 +14,6 @@ brief: "This article compares browser-based Geolocation API with server-side IP 
 
 The ability to precisely locate browser users is a key functionality of many applications and online services. Choosing the right geolocation method is not always straightforward. In this article, we will examine the strengths and weaknesses of the browser’s Geolocation API versus server-side IP-based geolocation, and also compare the effectiveness of various services supporting the latter option.
 
-![Internet-icon.png](media/Internet-icon.png)
 
 ## Survey Research
 

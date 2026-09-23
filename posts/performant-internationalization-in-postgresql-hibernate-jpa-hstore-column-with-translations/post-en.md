@@ -16,7 +16,6 @@ brief: "This article explores a PostgreSQL HStore column for multilingual field-
 
 In this article we continue our research on how to implement field level text search by using a datatype specific to Postgres - a HStore column. Next we'll use GIN / GiST indexes which ware described in the opening article of this series and we'll try to implement the described concept using Spring Data JPA, Hibernate and Postgres.
 
-![multilingual-data.png](media/multilingual-data.png)
 
 ## Table of contents
 
@@ -724,5 +723,3 @@ This article is a result of our cooperation with [**Nextbuy**](https://www.nextb
 ---
 
 [![](media/walczak-it-logo5.png)](https://walczak.it/contact)
-
-Do you need help in your company with some topic we mentioned in our blog articles? If so, then please feel free to [contact us](https://walczak.it/contact). We can help you by providing consulting and audit services or by organizing [training workshops](https://walczak.it/consulting-training-courses) for your employees. We can also aid you in [software development](https://walczak.it/software-development) by outsourcing our developers.

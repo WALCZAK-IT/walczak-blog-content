@@ -17,7 +17,6 @@ brief: "Praktyczna ściąga dotycząca wyboru formatów plików graficznych do p
 
 Często zdarza się, że pracownicy agencji marketingowych lub początkujący graficy nie posiadają technicznej wiedzy o działaniu poszczególnych formatów plików graficznych i ich odpowiednim zastosowaniu. To staje się wyraźne, gdy przekazują do publikacji w Internecie grafikę wektorową w formacie JPG lub gdy dostarczają do druku plik PDF z paletą kolorów RGB i załączonymi niestandardowymi czcionkami. Celem tego artykułu jest zapewnienie szybkiej ściągi dla takich osób, aby prace przekazywane przez nich nie traciły na jakości w wyniku konwersji do niewłaściwych formatów oraz żeby nie okazywało się w drukarni że wydruki wyszły inne niż podgląd dokumentu na monitorze.
 
-![formats-question.png](media/formats-question.png)
 
 ## Współpraca z fotografami
 

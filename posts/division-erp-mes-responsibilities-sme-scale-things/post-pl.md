@@ -17,7 +17,6 @@ Na początku roku zaczęliśmy przygotowywać się do zaprojektowania własnego 
 
 Nadszedł czas, aby podzielić się naszymi spostrzeżeniami oraz szkicami projektowymi. Rozpoczynamy zatem serię artykułów, która będzie poświęcona naszym staraniom przełożenia standardów przyjętych dla dużych systemów ERP i MES do realiów MSP.
 
-![photodune-4595578-boy-in-big-shirt-and-pants-s-mixx.jpg](media/photodune-4595578-boy-in-big-shirt-and-pants-s-mixx.jpg)
 
 # Hierarchia funkcjonalna standardu a MSP
 

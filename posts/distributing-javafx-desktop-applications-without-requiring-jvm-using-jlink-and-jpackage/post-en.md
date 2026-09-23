@@ -16,7 +16,6 @@ brief: "Learn how to distribute a JavaFX desktop application with its own trimme
 
 The times when Java was available on almost every desktop are long gone but you can still distribute your desktop applications written in Java in a user friendly way. Since the release of OpenJDK and OpenJFX 9 we can benefit from the JVMs modularization efforts and easily build executables with a bundled JVM trimmed to the needs of our application. In this article we will show you how we ported our small desktop app called PDF Decorator to OpenJDK 11 and used tools like jlink and jpackage to start distributing our app without requiring any third party software on our clients machines.
 
-![openjdk.jpg](media/openjdk.jpg)
 
 ## Install OpenJDK 11
 
@@ -350,5 +349,3 @@ There is still some work in jpackage that needs to be done to consider it produc
 ---
 
 [![](media/walczak-it-logo5.png)](https://walczak.it/contact)
-
-Do you need help in your company with some topic we mentioned in our blog articles? If so, then please feel free to [contact us](https://walczak.it/contact). We can help you by providing consulting and audit services or by organizing [training workshops](https://walczak.it/consulting-training-courses) for your employees. We can also aid you in [software development](https://walczak.it/software-development) by outsourcing our developers.

@@ -192,7 +192,6 @@ Dlatego format eksporterów Prometheusa staje się de facto standardem i mogą g
 
 #### Metryki transakcji kluczowej
 
-![Metryki transakcji kluczowej w NewRelic](media/newrelic-key-transaction-metrics-1.png)
 
 ![Metryki transakcji kluczowej w NewRelic](media/newrelic-key-transaction-metrics-2.png)
 

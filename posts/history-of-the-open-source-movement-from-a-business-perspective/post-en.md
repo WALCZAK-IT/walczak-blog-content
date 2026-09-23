@@ -14,7 +14,6 @@ brief: "A history of the open-source movement viewed from the business perspecti
 
 Open projects are a phenomenon that entered the arena of computer history at the turn of the 1980s and 1990s, in the form of the free software movement. At that time, business players in the IT industry saw them as a whim of a few members of the academic community, which had no place in commercial conditions. The vision of open projects, within which software could be used and copied for free, and users would be treated as collaborators, seemed to have no chance of developing and improving valuable computer products.
 
-![osp-blog-front.png](media/osp-blog-front.png)
 
 ## Common practices of the '60s and '70s.
 

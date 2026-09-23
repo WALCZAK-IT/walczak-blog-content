@@ -14,7 +14,6 @@ brief: "Artykuł przedstawia schemat integracji systemów biznesowych i produkcy
 
 W [poprzednim artykule](https://walczak.it/pl/blog/podzial-kompetencji-miedzy-erp-mes-kontra-realia-msp) przedstawiliśmy dlaczego nie da się zastosować w pełni podziału kompetencji systemów **ERP-MES** według standardu **IEC/ISO-62264** w realiach małych i średnich przedsiębiorstw. Teraz natomiast opiszemy jaki, na bazie tych przemyśleń, opracowaliśmy schemat integracji analogicznych systemów stosowanych przez **MSP**.
 
-![photodune-892179-man-in-helmet-with-hammer-repairs-computer-s-mod.jpg](media/photodune-892179-man-in-helmet-with-hammer-repairs-computer-s-mod.jpg)
 
 Standard IEC-62264 przedstawia obszary wymiany informacji między poziomem biznesowym (4) a przemysłowym (3) według poniższego schematu. Jego zamysł jest ściśle skorelowany z ich hierarchią funkcjonalną.
 

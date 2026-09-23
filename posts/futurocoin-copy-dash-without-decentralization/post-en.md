@@ -14,7 +14,6 @@ brief: "An analysis of FuturoCoin's technology, relationship to Dash, and claims
 
 In the past months we could hear many controversies surrounding an upcoming coin developed by FutureNet called [FuturoCoin](https://futurocoin.com/). FutureNet is a social network and Multi Level Marketing (MLM) platform. Most of the cryto-community didn't take them seriously and ware expecting another [DasCoin](https://bitcointalk.org/index.php?topic=1636850.0) - a coin which had little do to with the term 'cryptocurrency' but was heavily marketed as such using MLM. Both FutureNet and the creators of DasCoin (Netleaders) are under [investigation by the Polish government](https://uokik.gov.pl/aktualnosci.php?news_id=13844) under the suspicion of being a ponzi-scheme. The fact that FutureNet promoted their FuturoCoin without even publishing a whitepaper also didn't help. Now that they finally have one and also published their source code we can see what this coin really is.
 
-![futurocoin-dash.jpg](media/futurocoin-dash.jpg)
 
 ## They just copied Dash...
 
@@ -63,5 +62,3 @@ As FutureNets "MLM" pyramid collapses Polish UOKiK pressed charges against its f
 ---
 
 [![](media/walczak-it-logo5.png)](https://walczak.it/contact)
-
-Do you need help in your company with some topic we mentioned in our blog articles? If so, then please feel free to [contact us](https://walczak.it/contact). We can help you by providing consulting and audit services or by organizing [training workshops](https://walczak.it/consulting-training-courses) for your employees. We can also aid you in [software development](https://walczak.it/software-development) by outsourcing our developers.

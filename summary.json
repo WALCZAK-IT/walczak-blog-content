@@ -24,6 +24,29 @@
       }
     },
     {
+      "dir": "connecting-custom-domain-email-to-gmail",
+      "title": {
+        "en": null,
+        "pl": "Podpięcie maila z własnej domeny do prywatnej skrzynki Gmail"
+      },
+      "slugs": {
+        "en": null,
+        "pl": "podpiecie-maila-z-wlasnej-domeny-do-prywatnej-skrzynki-gmail"
+      },
+      "coverImage": {
+        "en": null,
+        "pl": "media/gmail-logo2.png"
+      },
+      "brief": {
+        "en": null,
+        "pl": "Pokazuję, jak dodać adres email we własnej domenie do bezpłatnej skrzynki Gmail, konfigurując przekierowanie poczty na hostingu oraz wysyłkę przez serwer SMTP."
+      },
+      "publishDate": {
+        "en": null,
+        "pl": "2022-06-16"
+      }
+    },
+    {
       "dir": "controlling-file-sharing-in-a-windows-lan-without-active-directory",
       "title": {
         "en": null,

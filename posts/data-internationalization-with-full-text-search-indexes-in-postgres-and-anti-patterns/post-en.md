@@ -15,7 +15,6 @@ brief: "This article explores data models for multilingual applications and full
 
 Software systems that operate in an international environment often must support multilingual data models. For example, users of a procurement system must be able to describe the products they want to buy in many languages because they want to receive offers from suppliers that reside in different countries. Designing a system that can effectively display data in a given users language and also allow him to do full text searches is a challenge - many commonly used patterns will have a high performance penalty and slow down your system. In this first of a series of articles we will describe how Postgres supports full text search in general and what are the most common anti-patterns for multilingual SQL models.
 
-![multilingual-data.png](media/multilingual-data.png)
 
 ## Table of contents
 
@@ -82,5 +81,3 @@ This article is a result of our cooperation with [**Nextbuy**](https://www.nextb
 ---
 
 [![](media/walczak-it-logo5.png)](https://walczak.it/contact)
-
-Do you need help in your company with some topic we mentioned in our blog articles? If so, then please feel free to [contact us](https://walczak.it/contact). We can help you by providing consulting and audit services or by organizing [training workshops](https://walczak.it/consulting-training-courses) for your employees. We can also aid you in [software development](https://walczak.it/software-development) by outsourcing our developers.

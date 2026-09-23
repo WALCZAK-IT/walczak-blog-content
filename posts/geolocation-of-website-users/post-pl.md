@@ -14,7 +14,6 @@ brief: "Porównuję przeglądarkowe Geolocation API z geolokalizacją użytkowni
 
 Zdolność do precyzyjnego lokalizowania użytkowników przeglądarek stanowi kluczową funkcjonalnością wielu aplikacji i serwisów internetowych. Wybór odpowiedniej metody geolokalizacji nie jest zawsze oczywisty. W tym artykule sprawdzimy mocne i słabe strony przeglądarkowego Geolocation API kontra geolokalizacja serwerowa na podstawie IP, a także porównamy skuteczność różnych usług wspomagających drugą opcję.
 
-![Internet-icon.png](media/Internet-icon.png)
 
 ## Badania ankietowe
 

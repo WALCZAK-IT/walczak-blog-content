@@ -15,7 +15,6 @@ brief: "How much are IT specialists paid for on-call duty? This survey of progra
 
 On-call duty in the IT industry is an integral part of the work for many specialists. It requires the on-call person to have their laptop and phone at hand after hours on a given day—even on weekends or holidays. Most companies offer their employees additional compensation for on-call duty, but what is the amount? We conducted a survey among IT specialists, including programmers, administrators, and DevOps specialists. In this article, we present the results for these three groups and identify the most common practices related to on-call duty.
 
-![IT on-call duty](media/oncall-dev.jpg)
 
 ## Survey
 

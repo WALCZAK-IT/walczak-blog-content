@@ -16,7 +16,6 @@ brief: "Dowiedz się, jak dostarczyć aplikację desktopową JavaFX wraz z dopas
 
 Dawno już minęły czasy gdy Java była zainstalowana na prawie każdym desktopie. Możemy jednak nadal dostarczać użytkownikom aplikacje napisane w Javie w przyjazny dla nich sposób. Od momentu wydania OpenJDK oraz OpenJFX 9 możemy wykorzystać modularyzację JVMa do łatwego zbudowania pliku wykonalnego z dołączonym do niego JVMem, który został skrojony do potrzeb naszej aplikacji. W tym artykule pokażemy jak sportowaliśmy naszą małą aplikacje desktopową PDF Decorator do OpenJDK 11 i wykorzystaliśmy takie narzędzia jak jlink i jpackage aby zacząć dostarczać naszą aplikacje bez wymagania oprogramowania firm trzecich na maszynach naszych użytkowników.
 
-![openjdk.jpg](media/openjdk.jpg)
 
 Pełny artykuł jest dostępny wyłącznie w języku angielski.
 
