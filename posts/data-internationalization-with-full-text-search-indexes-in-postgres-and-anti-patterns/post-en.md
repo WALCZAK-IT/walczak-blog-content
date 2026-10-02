@@ -1,7 +1,7 @@
 ---
 title: "Data internationalization with text search - indexes in Postgres and anti-patterns"
 slug: "data-internationalization-with-full-text-search-indexes-in-postgres-and-anti-patterns"
-publicationDate: "2020-09-27"
+publicationDate: "2020-05-10"
 tags:
   - "PostgreSQL"
   - "full-text search"
@@ -77,7 +77,3 @@ Next article in this series:
 [![](media/nextbuy_logo.png)](https://www.nextbuy24.com/)
 
 This article is a result of our cooperation with [**Nextbuy**](https://www.nextbuy24.com/)- a SaaS company which develops a procurement and online auction platform to connect buyers and suppliers. We provide various consulting and software development services to them and they have kindly allowed us to publish part of the resulting research / design documents. You can checkout their amazing platform at [www.nextbuy24.com](https://www.nextbuy24.com/)
-
----
-
-[![](media/walczak-it-logo5.png)](https://walczak.it/contact)

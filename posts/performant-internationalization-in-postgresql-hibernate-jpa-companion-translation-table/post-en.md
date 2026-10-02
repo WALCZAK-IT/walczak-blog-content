@@ -1,7 +1,7 @@
 ---
 title: "Performant internationalization in PostgreSQL + Hibernate / JPA - companion translation table"
 slug: "performant-internationalization-in-postgresql-hibernate-jpa-companion-translation-table"
-publicationDate: "2021-04-03"
+publicationDate: "2020-05-22"
 tags:
   - "PostgreSQL"
   - "Hibernate"
@@ -343,6 +343,3 @@ Next article in the series: [HStore column with translations](https://walczak.it
 
 This article is a result of our cooperation with [**Nextbuy**](https://www.nextbuy24.com/)- a SaaS company which develops a procurement and online auction platform to connect buyers and suppliers. We provide various consulting and software development services to them and they have kindly allowed us to publish part of the resulting research / design documents. You can checkout their amazing platform at [www.nextbuy24.com](https://www.nextbuy24.com/)
 
----
-
-[![](media/walczak-it-logo4.png)](https://walczak.it/contact)

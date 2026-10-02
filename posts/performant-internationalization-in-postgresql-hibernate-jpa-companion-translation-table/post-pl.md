@@ -1,7 +1,7 @@
 ---
 title: "Wydajna internacjonalizacja w PostgreSQL + Hibernate / JPA - tabela towarzysząca z tłumaczeniami"
 slug: "wydajna-internacjonalizacja-w-postgresql-hibernate-jpa-tabela-towarzyszaca-z-tlumaczeniami"
-publicationDate: "2021-04-03"
+publicationDate: "2020-05-22"
 tags:
   - "PostgreSQL"
   - "Hibernate"
@@ -344,6 +344,3 @@ Kolejny artykuł z serii: [Kolumna HStore z tłumaczeniami](https://walczak.it/p
 
 Ten artykuł jest wynikiem naszej współpracy z [**Nextbuy**](https://www.nextbuy24.com/)- firmą dostarczającą w modelu SaaS platformę zakupową i przetargową, która łączy kupców i dostawców. Świadczymy dla nich usługi doradcze oraz wsparcie w pracach programistycznych. Jesteśmy wdzięczni, że zgodzili się upublicznić część dokumentów projektowo-rozwojowych powstałych, w wyniku tego. Możecie sprawdzić ich świetną platformę na [www.nextbuy24.com](https://www.nextbuy24.com/)
 
----
-
-[![](media/walczak-it-logo4.png)](https://walczak.it/contact)

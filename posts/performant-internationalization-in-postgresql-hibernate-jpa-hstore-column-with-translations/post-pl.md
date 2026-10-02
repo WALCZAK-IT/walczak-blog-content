@@ -1,7 +1,7 @@
 ---
 title: "Wydajna internacjonalizacja w PostgreSQL + Hibernate / JPA - kolumna HStore z tłumaczeniami"
 slug: "wydajna-internacjonalizacja-w-postgresql-hibernate-jpa-kolumna-hstore-z-tlumaczeniami"
-publicationDate: "2022-08-13"
+publicationDate: "2020-06-05"
 tags:
   - "PostgreSQL"
   - "Hibernate"

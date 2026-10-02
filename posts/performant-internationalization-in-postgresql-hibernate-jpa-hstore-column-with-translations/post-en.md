@@ -1,7 +1,7 @@
 ---
 title: "Performant internationalization in PostgreSQL + Hibernate / JPA - HStore column with translations"
 slug: "performant-internationalization-in-postgresql-hibernate-jpa-hstore-column-with-translations"
-publicationDate: "2022-08-13"
+publicationDate: "2020-06-05"
 tags:
   - "PostgreSQL"
   - "Hibernate"
@@ -719,7 +719,3 @@ This article finishes our series. If you would like to read our analysis from th
 [![](media/nextbuy_logo.png)](https://www.nextbuy24.com/)
 
 This article is a result of our cooperation with [**Nextbuy**](https://www.nextbuy24.com/)- a SaaS company which develops a procurement and online auction platform to connect buyers and suppliers. We provide various consulting and software development services to them and they have kindly allowed us to publish part of the resulting research / design documents. You can checkout their amazing platform at [www.nextbuy24.com](https://www.nextbuy24.com/)
-
----
-
-[![](media/walczak-it-logo5.png)](https://walczak.it/contact)

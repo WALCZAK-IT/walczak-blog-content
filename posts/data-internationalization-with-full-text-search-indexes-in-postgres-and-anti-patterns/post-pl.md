@@ -1,7 +1,7 @@
 ---
 title: "Internacjonalizacja danych z wyszukiwaniem tekstowym - indeksy w Postgres oraz antywzorce"
 slug: "internacjonalizacja-danych-z-wyszukiwaniem-tekstowym-indeksy-w-postgres-oraz-antywzorce"
-publicationDate: "2020-09-27"
+publicationDate: "2020-05-10"
 tags:
   - "PostgreSQL"
   - "full-text search"
