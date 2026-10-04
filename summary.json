@@ -111,8 +111,8 @@
         "pl": "Artykuł omawia modele danych dla aplikacji wielojęzycznych oraz wyszukiwanie pełnotekstowe w PostgreSQL, ze szczególnym uwzględnieniem indeksów, wydajności i typowych antywzorców."
       },
       "publishDate": {
-        "en": "2020-09-27",
-        "pl": "2020-09-27"
+        "en": "2020-05-10",
+        "pl": "2020-05-10"
       }
     },
     {
@@ -341,8 +341,8 @@
         "pl": "Artykuł pokazuje implementację wielojęzycznego wyszukiwania tekstowego na poziomie pól z użyciem tabeli towarzyszącej, indeksów GIN i GiST, PostgreSQL, Hibernate oraz Spring Data JPA."
       },
       "publishDate": {
-        "en": "2021-04-03",
-        "pl": "2021-04-03"
+        "en": "2020-05-22",
+        "pl": "2020-05-22"
       }
     },
     {
@@ -364,8 +364,8 @@
         "pl": "Artykuł przedstawia wykorzystanie kolumny HStore w PostgreSQL do wielojęzycznego wyszukiwania tekstowego oraz integrację z indeksami GIN i GiST, Hibernate i Spring Data JPA."
       },
       "publishDate": {
-        "en": "2022-08-13",
-        "pl": "2022-08-13"
+        "en": "2020-06-05",
+        "pl": "2020-06-05"
       }
     },
     {
