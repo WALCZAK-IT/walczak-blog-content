@@ -4,11 +4,11 @@
       "dir": "ai-benchmarks-code-quality-consecutive-agentic-development",
       "title": {
         "en": "AI benchmarks should measure code quality across consecutive agentic development",
-        "pl": "Benchmarki AI powinny mierzyć jakość kodu w kolejnych iteracjach rozwoju przez agentów"
+        "pl": "Benchmarki AI powinny mierzyć jakość kodu w kolejnych iteracjach agentic development"
       },
       "slugs": {
         "en": "ai-benchmarks-code-quality-consecutive-agentic-development",
-        "pl": "benchmarki-ai-powinny-mierzyc-jakosc-kodu-w-kolejnych-iteracjach-rozwoju-przez-agentow"
+        "pl": "benchmarki-ai-powinny-mierzyc-jakosc-kodu-w-kolejnych-iteracjach-agentic-development"
       },
       "coverImage": {
         "en": "media/cover.png",
@@ -16,7 +16,7 @@
       },
       "brief": {
         "en": "Most AI coding benchmarks test whether an agent can write a single patch inside a human-designed codebase and walk away. Real software factories do not work like that. To know whether we can trust autonomous agents — and potentially drop human code review — we need longitudinal benchmarks like SlopCodeBench that measure code erosion across consecutive iterations.",
-        "pl": "Większość benchmarków programistycznych AI sprawdza, czy agent potrafi napisać pojedynczą łatkę w repozytorium zaprojektowanym przez ludzi. Prawdziwe fabryki oprogramowania tak nie działają. Aby ocenić, czy możemy zrezygnować z ludzkiego code review, potrzebujemy benchmarków takich jak SlopCodeBench, które mierzą degradację kodu w kolejnych iteracjach."
+        "pl": "Większość benchmarków agentów AI sprawdza, czy agent potrafi napisać pojedynczą łatkę w repozytorium zaprojektowanym przez ludzi. Prawdziwe fabryki oprogramowania tak nie działają. Aby ocenić, czy potencjalnie możemy zrezygnować z ludzkiego code review, potrzebujemy benchmarków takich jak SlopCodeBench, które mierzą degradację kodu w kolejnych iteracjach."
       },
       "publishDate": {
         "en": "2026-11-15",
