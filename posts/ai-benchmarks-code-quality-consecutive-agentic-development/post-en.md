@@ -1,5 +1,5 @@
 ---
-title: "AI benchmarks should measure code quality across consecutive agentic development"
+title: "AI benchmarks should measure code quality across consecutive agentic development iterations"
 slug: "ai-benchmarks-code-quality-consecutive-agentic-development"
 publicationDate: "2026-11-15"
 tags:
