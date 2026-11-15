@@ -110,13 +110,6 @@ when that translation is missing):
 }
 ```
 
-## Legacy quirks from the original import
+## Generating images
 
-Leave these alone unless the content itself is being rewritten:
-
-- `posts/distributing-javafx-desktop-applications-without-requiring-jvm-using-jlink-and-jpackage/post-pl.md`
-  is deliberately short — the Polish version was only ever an intro plus a pointer to
-  the English article.
-- A few Polish posts carry the same slug as their English counterpart (e.g.
-  `integrating-business-systems-manufacturing-sme`) because that is the URL the old
-  site published. New articles should get a properly translated Polish slug.
+When generating images for this blog follow the convetions described in IMAGES.md
