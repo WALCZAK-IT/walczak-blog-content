@@ -3,7 +3,7 @@
     {
       "dir": "ai-benchmarks-code-quality-consecutive-agentic-development",
       "title": {
-        "en": "AI benchmarks should measure code quality across consecutive agentic development",
+        "en": "AI benchmarks should measure code quality across consecutive agentic development iterations",
         "pl": "Benchmarki AI powinny mierzyć jakość kodu w kolejnych iteracjach agentic development"
       },
       "slugs": {
